@@ -2,7 +2,6 @@
 
 🎓 **Engineering student at École Polytechnique (X23)** — Applied Mathematics & Data Science  
 🤖 Passionate about **Machine Learning**, **Bayesian methods**, and **Computer Vision**  
-⚽🏀 Special focus: **Sports Analytics** (football & basketball — tracking, detection, event recognition)
 
 ---
 
@@ -34,4 +33,4 @@ I'm also involved in educational outreach projects in Morocco.
 
 ## 📫 Contact
 - Email: **aminesaadi2312@gmail.com**
-- LinkedIn: *add link here*
+- LinkedIn: *https://www.linkedin.com/in/saadi-amine-8633202a3/*
